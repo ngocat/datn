@@ -143,9 +143,7 @@ Tang Nano 9K crystal: **27 MHz** (không có PLL trong project này → chạy 2
 | `i2c_gpio.v` | i2c_gpio | I2C GPIO bit-bang |
 | `reset.v` | reset_control | Reset sequencer (64-cycle debounce) |
 | `mem_init.v` | (include) | Nội dung SRAM khởi tạo (firmware) |
-| `picorv32.v` | picorv32 | PicoRV32 core gốc (**đã thay bằng rv32i_bus**) |
-| `picorv32.cst` | — | Constraint file (pin mapping) |
-| `picorv32.sdc` | — | Timing constraint |
+
 
 ### 14.3 Folder `c_code/` — Firmware C
 
