@@ -130,7 +130,7 @@ Tang Nano 9K crystal: **27 MHz** (không có PLL trong project này → chạy 2
 | `InstructionMem.v` | instr_mem | Instruction memory (không dùng trong rv32i_bus) |
 | `core_rv32i.v` | top | Core single-cycle gốc (không dùng, giữ làm tham khảo) |
 
-### 14.2 Folder `src/` — SoC, Peripheral, và Tool chain
+### 14.2 Folder `SoC/` — SoC, Peripheral, và Tool chain
 
 | File | Module | Chức năng |
 |------|--------|-----------|
