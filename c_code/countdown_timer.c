@@ -1,7 +1,3 @@
-/* Copyright 2024 Grug Huhler
- *
- * License: SPDX BSD-2-Clause.
- */
 
 #include "countdown_timer.h"
 
